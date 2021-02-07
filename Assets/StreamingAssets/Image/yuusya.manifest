@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1679769364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 345c09c003bbbed9ce61ccb9ee5069e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Editor/AssetBundle/yuusya/card.jpg
+- Assets/Editor/AssetBundle/yuusya/main.png
+- Assets/Editor/AssetBundle/yuusya/sd.png
+Dependencies: []

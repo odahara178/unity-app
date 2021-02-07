@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1533958202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad4873b1af29807154496c065973f63f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52b90fe34acdbe892c80e1ff630fee3e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Editor/AssetBundle/prefab/card.prefab
+- Assets/Editor/AssetBundle/prefab/main.prefab
+- Assets/Editor/AssetBundle/prefab/sd.prefab
+Dependencies: []
